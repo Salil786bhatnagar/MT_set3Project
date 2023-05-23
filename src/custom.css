@@ -1,0 +1,87 @@
+.css-hip9hq-MuiPaper-root-MuiAppBar-root {
+  
+    box-shadow:
+    0px 0px 0px 0px,
+    0px 0px 0px 0px, 
+    0px 0px 0px 0px !important;
+    background-color: rgb(25 118 210 / 0%) !important;
+    color: #000 !important;
+}
+.css-1q39md6-MuiButtonBase-root-MuiButton-root {
+    color: #000 !important;
+    /* display: block; */
+}
+.div-Menu {
+    position: relative;
+    right: 9%;
+}
+.css-1ka5eyc-MuiPaper-root-MuiMenu-paper-MuiPopover-paper {
+    position: absolute !important;
+    /* top: 75px !important; */
+   /* left: 1120px; */
+}
+.css-10nakn3-MuiModal-root-MuiPopover-root-MuiMenu-root {
+    top:1% !important;
+  
+}
+
+.div-itme-search {
+    width: 60%;
+    left: 5%;
+    position: relative;
+}
+
+/* nav bar css */
+span.spanNav-bar ul li {
+    list-style: none;
+    display: inline;
+    margin: 1%;
+    float: left;
+    font-size: 15px;
+    font-weight: 600;
+}
+span.spanNav-bar a {
+    color: #fff;
+    text-decoration: solid;
+    text-transform: capitalize;
+}
+
+.css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+    color: #fff !important;
+}
+
+.css-1vm0r4s-MuiPaper-root {
+    padding: 0px 0px !important;
+    border-radius: 25px !important;
+}
+
+spna.span-signIn {
+    color: aliceblue;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+.div-slider {
+    width: 75%;
+    position: relative;
+    text-align: center;
+    left: 12%;
+    top: 255px;
+}
+.slick-prev {
+    left: -55px !important;
+}
+.slick-next {
+    right: -35px !important;
+}
+
+.slick-prev:before, .slick-next:before {
+    font-family: 'slick';
+    font-size: 30px !important;
+    line-height: 1;
+    opacity: .0;
+    color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
